@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reformnigeria/precache-manifest.f975590beda76a2cc46260d22db10e51.js"
+  "/reformnigeria/precache-manifest.b369bd316a38a77841d913cfe09c7130.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f873bd3f0f4dea81f4e364e5090d29c",
+    "revision": "ebcb33cb9f48e55ebe2b60f0c1a74198",
     "url": "/reformnigeria/index.html"
   },
   {
-    "revision": "9fc5d10dc6595c0b21c0",
+    "revision": "a9610bfed43fea989d3e",
     "url": "/reformnigeria/static/css/main.c122062b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reformnigeria/static/js/2.633241eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fc5d10dc6595c0b21c0",
-    "url": "/reformnigeria/static/js/main.cdba2719.chunk.js"
+    "revision": "a9610bfed43fea989d3e",
+    "url": "/reformnigeria/static/js/main.86913247.chunk.js"
   },
   {
     "revision": "6b51dfa98095e79ac059",
