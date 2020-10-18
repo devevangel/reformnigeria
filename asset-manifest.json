@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reformnigeria/static/css/main.c122062b.chunk.css",
+    "main.js": "/reformnigeria/static/js/main.cdba2719.chunk.js",
+    "main.js.map": "/reformnigeria/static/js/main.cdba2719.chunk.js.map",
+    "runtime-main.js": "/reformnigeria/static/js/runtime-main.5c2a9691.js",
+    "runtime-main.js.map": "/reformnigeria/static/js/runtime-main.5c2a9691.js.map",
+    "static/js/2.633241eb.chunk.js": "/reformnigeria/static/js/2.633241eb.chunk.js",
+    "static/js/2.633241eb.chunk.js.map": "/reformnigeria/static/js/2.633241eb.chunk.js.map",
+    "index.html": "/reformnigeria/index.html",
+    "precache-manifest.f975590beda76a2cc46260d22db10e51.js": "/reformnigeria/precache-manifest.f975590beda76a2cc46260d22db10e51.js",
+    "service-worker.js": "/reformnigeria/service-worker.js",
+    "static/css/main.c122062b.chunk.css.map": "/reformnigeria/static/css/main.c122062b.chunk.css.map",
+    "static/js/2.633241eb.chunk.js.LICENSE.txt": "/reformnigeria/static/js/2.633241eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c2a9691.js",
+    "static/js/2.633241eb.chunk.js",
+    "static/css/main.c122062b.chunk.css",
+    "static/js/main.cdba2719.chunk.js"
+  ]
+}
